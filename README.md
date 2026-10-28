@@ -152,5 +152,5 @@ BFS Traversal: A -> B -> C -> D -> E -> F
 
 <hr>
 
-<p>Thus, a graph was constructed and the implementation of Breadth First Search traversal for the given graph was completed successfully using Python 3.</p>
+<p>Thus, a graph was constructed and the implementation of Breadth First Search traversal for the given graph was completed successfully.</p>
 
